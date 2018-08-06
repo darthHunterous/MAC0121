@@ -8,6 +8,8 @@ public class Nut {
     int dimen() { return d; }
 
     public int compareTo(Bolt b) {
-	return this.d - b.dimen();
+	if (this.d - b.dimen() == 0) return 0;
+	else if (this.d - b.dimen() < 0) return -1;
+	else return 1;
     }
-}
+} 
