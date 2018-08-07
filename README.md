@@ -12,5 +12,4 @@
     3. Notes from Sedgewick's CS book:
         * [Computer Science - An Interdisciplinary Approach](https://introcs.cs.princeton.edu/java/home/)
         * [Lectures here](https://introcs.cs.princeton.edu/java/lectures/)
-    4. Notes from Sedgewick's Intro book:
-        * [Introduction to Programming in Java/Python](https://introcs.cs.princeton.edu/python/home/)
+    4. Some experimentations in Java, done when unfamiliar with the language
