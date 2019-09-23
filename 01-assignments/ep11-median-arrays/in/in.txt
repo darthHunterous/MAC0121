@@ -1,0 +1,2 @@
+aab abc abc acb bab bab bac bbb cca ccb
+abc aca acc acc bab bac bac cbb cbc cbc 
